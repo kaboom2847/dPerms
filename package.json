@@ -1,0 +1,12 @@
+{
+  "name": "@imthehumanoid/dperms",
+  "version": "0.0.1",
+  "description": "Easy permission handling for discord.js!",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Success!')"
+  },
+  "author": "imthehumanoid",
+  "license": "ISC",
+  "keywords": []
+}
