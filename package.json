@@ -1,6 +1,6 @@
 {
   "name": "@imthehumanoid/dperms",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easy permission handling for discord.js!",
   "main": "index.js",
   "scripts": {
